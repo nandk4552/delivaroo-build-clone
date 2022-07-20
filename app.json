@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "delivaroo-clone",
+    "slug": "delivaroo-clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "delivaroo-clone"
+}
